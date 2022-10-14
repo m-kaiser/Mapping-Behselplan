@@ -24,8 +24,8 @@ By linking them to the address book, it was possible to transfer Behsel’s addr
 | Hausinhaber | column from Behsel's address book, seldom transcribed, only if an institution is mentioned |
 | Gassen und Plätze | historical names for street and squares |
 | Grundobrigkeit | public authority responsible for the land register |
-| Latitude | geocoordinates for latitude, 7 decimal places 7 digest long  |
-| Longitude | geocoordinates for longitude, 7 decimal places 7 digest long |
+| Latitude | geocoordinates for latitude, 7 decimal places long  |
+| Longitude | geocoordinates for longitude, 7 decimal places long |
 | Planinhalt | city aeras shown in a specific map tile |
 | Vorstadt_Stadviertel | suburb or district |
 | reference | abbreviated citation of the source map|
