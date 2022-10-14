@@ -9,7 +9,6 @@ Each of the point data were then collated with the addresses mentioned in the ad
 
 By linking them to the address book, it was possible to transfer Behsel’s address concordance. Finally, this dataset not only provides georeferenced addresses for a specific time period. It will also be possible to use the dataset for the identification and localization of earlier addresses, which could be found in historical source materials.
 
-[^1] The Vienna History Wiki (Wien Geschichte Wiki) offers an introduction about historical adresses and an overview of available reference materials. See Häusernummerierungen (ver. 24.6.2022), in: [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/index.php?title=H%C3%A4usernummerierung&oldid=831841) (retrieved 14.10.2022)
 
 ## Description
 - points
@@ -17,3 +16,6 @@ By linking them to the address book, it was possible to transfer Behsel’s addr
 - dataset
 
 ## Result
+
+
+[^1] The Vienna History Wiki (Wien Geschichte Wiki) offers an introduction about historical adresses and an overview of available reference materials. See Häusernummerierungen (ver. 24.6.2022), in: [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/index.php?title=H%C3%A4usernummerierung&oldid=831841) (retrieved 14.10.2022)
