@@ -12,12 +12,31 @@ By linking them to the address book, it was possible to transfer Behsel’s addr
 ![image of network node](https://github.com/m-kaiser/Mapping-Behselplan/blob/main/Mapping_Behsel_Preview.png)
 > Screenshot showing the mapping of the Behselplan (background layer with building polygons from the [Franziszeischen Kataster](https://www.data.gv.at/katalog/dataset/4030d796-0573-4305-86f2-b34e38a86a1d))
 
-## Description
-- points
-- addresses
-- dataset
+## Decription
+- points (mapping of the map tiles)
+- addresses (transcription of the concordance)
+- dataset (linked dataset consisting of points and adresses)
 
-Points 
+### Points
+
+| column title | definition |
+|--------------|------------|
+| id | unique identifier for the table |
+| Adresse | joined values from column G (Gassen und Plätze/streets and squares) and column C (Hausnummern/adresses)|
+| Hausnummer | adress number (newest according to Behsel) |
+| alte_1795_1821 | concordance with older adress numbers |
+| ältere_1770_1795 | concordance with oldest adress numbers |
+| Hausinhaber | column from Behsel's adress book, seldom transcribed, only if an institution is mentioned |
+| Gassen und Plätze | historical names for street and squares |
+| Grundobrigkeit | public authority responsible for the land register |
+| Latitude | Breitengrad |
+| Longitude | Längengrad |
+| Vorstadt | suburb |
+| reference | abbreviated citation of the source map|
+
+
+
+
 
 
 
