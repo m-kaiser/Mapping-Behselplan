@@ -34,18 +34,5 @@ By linking them to the address book, it was possible to transfer Behsel’s addr
 
 ## Sources
 
-| column title | definition | Owner |
-|--------------|------------|------------|
-| Behselplan | georeferenced map tiles, showing the city of Vienna and its suburbs | [Wiener Stadt und Landesarchiv MA8](https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00001994ma8KartoSlg#Stueck__00001994ma8KartoSlg) |
-| Adressbuch Anton Behsel | PDF of the address book | [Wienbibliothek im Rathaus MA9](https://resolver.obvsg.at/urn:nbn:at:AT-WBR-7003) |
-
-
-
-
-
-
-
-
-
-
-
+Anton Behsel, Stadtplan von Wien und seinen Vorstädten (1820-1825), [WStLA, Pläne und Karten: Sammelbestand, P1: 295G](https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00001994ma8KartoSlg#Stueck__00001994ma8KartoSlg). 
+Anton Behsel, Verzeichniß aller in der kaiserl. königl. Haupt- und Residenzstadt Wien mit ihren Vorstädten befindlichen Häuser, Wien: Gedruckt und im Verlage Bey Carl Gerold, 1829. [urn:nbn:at:AT-WBR-7003](https://resolver.obvsg.at/urn:nbn:at:AT-WBR-7003).
