@@ -10,13 +10,14 @@ Each of the point data were then collated with the addresses mentioned in the ad
 By linking them to the address book, it was possible to transfer Behsel’s address concordance. Finally, this dataset not only provides georeferenced addresses for a specific time period. It will also be possible to use the dataset for the identification and localization of earlier addresses, which could be found in historical source materials.
 
 ![image of network node](https://github.com/m-kaiser/Mapping-Behselplan/blob/main/Mapping_Behsel_Preview.png)
-> Screenshot showing the mapping of the Behselplan
+> Screenshot showing the mapping of the Behselplan (background layer with building polygons from the [Franziszeischen Kataster](https://www.data.gv.at/katalog/dataset/4030d796-0573-4305-86f2-b34e38a86a1d))
 
 ## Description
 - points
 - addresses
 - dataset
 
+Points 
 
 
 
