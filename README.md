@@ -1,6 +1,6 @@
 # Mapping the Behselplan (1822–1825)
 
-Starting point was the georeferencing of address numbers, the so called “Konskriptionsnummern” (conscription numbers, valid during 1770 and 1860), depicted on the city map of the cartographer [Anton Behsel (1781–1838)]( https://www.geschichtewiki.wien.gv.at/index.php?title=Anton_Behsel&oldid=827981). Behsel worked between 1822 and 1825 on his map which includes not only the city of Vienna but also the surrounding suburbs. This could be done on the basis of the georeferenced map tiles provided by the [map services of the city of Vienna](https://www.data.gv.at/katalog/dataset/7462373e-aac4-4582-9b2f-ad760b568ed4). The points were placed in [QGIS]( https://www.qgis.org/de/site/) on the original spot of the plan numbers. It resulted in 7,380 map points.
+Starting point was the georeferencing of address numbers, the so called “Konskriptionsnummern” (conscription numbers, valid during 1770 and 1860), depicted on the city map of the city building inspector and cartographer [Anton Behsel (1781–1838)]( https://www.geschichtewiki.wien.gv.at/index.php?title=Anton_Behsel&oldid=827981). Behsel worked between 1822 and 1825 on his map which includes not only the city of Vienna but also the surrounding suburbs. This could be done on the basis of the georeferenced map tiles provided by the [map services of the city of Vienna](https://www.data.gv.at/katalog/dataset/7462373e-aac4-4582-9b2f-ad760b568ed4). The points were placed in [QGIS]( https://www.qgis.org/de/site/) on the original spot of the plan numbers. It resulted in 7,380 map points.
 
 Each of the point data were then collated with the addresses mentioned in the address book published at the same time by Anton Behsel. Due to the rapid city growth, the addresses shifted several times. Behsel organised his concordance around three time slices: 
 - newest (1822–1860)
@@ -31,6 +31,13 @@ By linking them to the address book, it was possible to transfer Behsel’s addr
 | reference | abbreviated citation of the source map|
 | WienWiki_Pagetitle | original title of the page in Vienna History Wiki |
 | WienWiki_Permalink | permalink to the entry in Vienna History Wiki |
+
+## Sources
+
+| column title | definition | Owner |
+|--------------|------------|------------|
+| Behselplan | georeferenced map tiles, showing the city of Vienna and its suburbs | [Wiener Stadt und Landesarchiv MA8](https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00001994ma8KartoSlg#Stueck__00001994ma8KartoSlg) |
+| Adressbuch Anton Behsel | PDF of the address book | [Wienbibliothek im Rathaus MA9](https://resolver.obvsg.at/urn:nbn:at:AT-WBR-7003) |
 
 
 
