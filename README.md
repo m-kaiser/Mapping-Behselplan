@@ -7,7 +7,7 @@ Behsel also published an address book in parallel to his plan material. As a nex
 - older (1795–1821)
 - oldest (1770–1794)
 
-By linking the points to the address book, it was possible to transfer Behsel’s address concordance. Finally, this dataset not only provides georeferenced addresses for a specific time period. This dataset can also be used for the identification and localization of earlier addresses in historical sources.
+By linking the points to the address book, it was possible to transfer Behsel’s **address concordance**. Finally, this dataset not only provides georeferenced addresses for a specific time period. This dataset can also be used for the identification and localization of earlier addresses in historical sources.
 
 ![image of network node](https://github.com/m-kaiser/Mapping-Behselplan/blob/main/Mapping_Behsel_Preview.png)
 > Screenshot showing the mapping of the Behselplan (background layer with building polygons from the [Franziszeischen Kataster](https://www.data.gv.at/katalog/dataset/4030d796-0573-4305-86f2-b34e38a86a1d))
